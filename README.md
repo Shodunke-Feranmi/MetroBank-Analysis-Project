@@ -127,7 +127,7 @@ Write 3 to 5 conclusions that cut across the weeks, for example:
 ![Week 1 Customer Profile Dashboard](https://github.com/Shodunke-Feranmi/MetroBank-Analysis-Project/blob/main/Metrobank%20customers%20Dashboard.png)
 ![Week 2 Accounts & Credit](https://github.com/Shodunke-Feranmi/MetroBank-Analysis-Project/blob/main/MetroBank%20Account%20Dasboard.png)
 ![Week 3 Transactions Dashboard](https://github.com/Shodunke-Feranmi/MetroBank-Analysis-Project/blob/main/MetroBank%20Transaction%20Dashboard.png)
-![Week 4 Branch Performance]([images/week4_summary.png](https://github.com/Shodunke-Feranmi/MetroBank-Analysis-Project/blob/main/MetroBank%20Branch%20Performance%20Dashboard.png))
+![Week 4 Branch Performance](https://github.com/Shodunke-Feranmi/MetroBank-Analysis-Project/blob/main/MetroBank%20Branch%20Performance%20Dashboard.png)
 ![Week 5 Complaints & Fraud]([images/week5_summary.png](https://github.com/Shodunke-Feranmi/MetroBank-Analysis-Project/blob/main/MetroBank%20Complaints%20Dashboard.png))
 
 ## 📚 Skills Demonstrated
