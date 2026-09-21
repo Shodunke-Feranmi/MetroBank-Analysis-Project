@@ -124,7 +124,7 @@ Write 3 to 5 conclusions that cut across the weeks, for example:
 
 ## 📸 Dashboard / Visualizations
 
-![Week 1 Customer Profile Dashboard](images/week1_dashboard.png)
+![Week 1 Customer Profile Dashboard]([images/week1_dashboard.png](https://github.com/Shodunke-Feranmi/MetroBank-Analysis-Project/blob/main/Metrobank%20customers%20Dashboard.png))
 ![Week 2 Accounts & Credit](images/week2_summary.png)
 ![Week 3 Transactions Dashboard](images/week3_dashboard.png)
 ![Week 4 Branch Performance](images/week4_summary.png)
